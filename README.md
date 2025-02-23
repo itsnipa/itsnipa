@@ -16,11 +16,15 @@ learning.
 
 <h3>Little facts about me 🧑</h3>
 
-- 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Software Testing.
-- 👯 I’m looking to collaborate with Sofware Projects.
-- 💡 Contributing to Open Source Projects has always been my goal.
-- ⚡ Fun fact: I love Reading and Travelleing.
+- 🧞 I'm a Tech Enthusiast a dedicated Software Quality Assurance Engineer with expertise in:
+- ✅ Manual Testing – Web, Mobile, API.
+- ✅ Automation Testing – Selenium, Cucumber, Playwright
+- ✅ API Testing – Postman.
+- ✅ Performance Testing – JMeter.
+- ✅ CI/CD & Test Management – GitHub Actions, Jira, TestRail.
+- 🔍 Passionate about delivering high-quality software and constantly learning new testing tools & methodologies.
+- 💻 Check out my projects & contributions!
+- 📩 Feel free to connect with me.
 <br>
 
 ---
